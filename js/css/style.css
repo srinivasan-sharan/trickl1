@@ -97,3 +97,27 @@ nav .navbar-brand {
   }
   
 }
+
+
+
+.contact_form{
+  padding: 10px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 0px 10px 0px black;
+}
+
+.form_btn{
+  font-weight: bold;
+    color: #3a3a3a;
+    background: #fffef2;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    /* border: 1px solid black; */
+}
+
+.form_btn:hover{
+  -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    background: #fffbd4;
+}
