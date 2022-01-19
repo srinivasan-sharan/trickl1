@@ -90,3 +90,10 @@ nav .navbar-brand {
   background: black;
   color: white;
 }
+
+@media (max-width:991px) {
+  .card-title,.card-text{
+    font-size: 0.6rem;
+  }
+  
+}
