@@ -121,3 +121,9 @@ nav .navbar-brand {
     transform: scale(1.1);
     background: #fffbd4;
 }
+
+@media (max-width:576px) {
+  .card-group{
+  align-items: center;
+}
+}
