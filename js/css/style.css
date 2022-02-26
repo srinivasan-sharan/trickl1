@@ -184,3 +184,14 @@ nav .navbar-brand {
   font-size: 4em;
 }
 
+.price-veg{
+  background-color: rgb(58, 138, 58);
+}
+
+.price-veg p,.price-nonveg p{
+  color: white;
+}
+
+.price-nonveg{
+  background-color: red;
+}
